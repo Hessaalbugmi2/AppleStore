@@ -74,13 +74,12 @@ Users can filter products by category through the dynamic navigation bar.
 
 👥 Contributors
 
-Shaikah Alqdeeb: Requirement Analysis, UI/UX Design, Database Integration.
+Hessa Albaqami: Database Design, Database Integration, Back-End Development.
+
+Shaikah Alqdeeb: Requirement Analysis, UI/UX Design.
 
 
-Hessa Albaqami: Database Design, User Module.
-
-
-Norah Alghobari: Back-End Development, Shopping Cart Module.
+Norah Alghobari: Shopping Cart Module, User Module.
 
 
 Hala Altamimi: Front-End Development, Product Module, Testing & Debugging.
